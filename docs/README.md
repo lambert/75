@@ -45,4 +45,4 @@ Right click on the images to open larger versions.
 
 [12](sjm-logo-color-1-small.gif)
 
-Last update: 29 Mar 2019 © Steven J. Merrifield
+Last update: 29 Mar 2019 Â© Steven J. Merrifield
