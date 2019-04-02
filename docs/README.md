@@ -1,6 +1,6 @@
 # Scalar Network Analyser
 
-[01](scalar_pcb.jpg)
+![01](scalar_pcb.jpg)
 
 This project is a simple scalar network analyser using a DDS, log amplifiers, multi channel ADC and a generic I/O interface.
 
@@ -23,7 +23,7 @@ download [source code](http://stevenmerrifield.com/scalar/scalar_source_code.c)
 
 Right click on the images to open larger versions.
 
-[02](scalar_short.png)
+![02](scalar_short.png)
 
 [03](scalar_noise_floor.png)
 
