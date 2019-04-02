@@ -25,24 +25,24 @@ Right click on the images to open larger versions.
 
 ![02](scalar_short.png)
 
-[03](scalar_noise_floor.png)
+![03](scalar_noise_floor.png)
 
-[04](scalar_rc.png)
+![04](scalar_rc.png)
 
-[05](scalar_xtal.png)
+![05](scalar_xtal.png)
 
-[06](scalar_LC.png)
+![06](scalar_LC.png)
 
-[07](scalar_107_resonator.png)
+![07](scalar_107_resonator.png)
 
-[08](schematic.png)
+![08](schematic.png)
 
-[09](dds_filter.png)
+![09](dds_filter.png)
 
-[10](shield_walls.jpg)
+![10](shield_walls.jpg)
 
-[11](shield_top.jpg)
+![11](shield_top.jpg)
 
-[12](sjm-logo-color-1-small.gif)
+![12](sjm-logo-color-1-small.gif)
 
 Last update: 29 Mar 2019 © Steven J. Merrifield
