@@ -1,0 +1,181 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+K302 device=CONNECTOR
+K301 device=CONNECTOR
+S301 device=SWITCH
+U306 device=AMP
+L313 device=COIL
+C345 device=CAPACITOR
+C346 device=CAPACITOR
+C350 device=CAPACITOR
+C349 device=CAPACITOR
+L314 device=COIL
+C348 device=CAPACITOR
+C347 device=CAPACITOR
+C344 device=CAPACITOR
+J303 device=CONNECTOR
+U305 device=AMP
+L311 device=COIL
+C339 device=CAPACITOR
+C338 device=CAPACITOR
+C343 device=CAPACITOR
+C342 device=CAPACITOR
+L312 device=COIL
+C341 device=CAPACITOR
+C340 device=CAPACITOR
+C337 device=CAPACITOR
+J302 device=CONNECTOR
+C332 device=CAPACITOR
+P301 device=VARIABLE_RESISTOR
+R306 device=RESISTOR
+X301 device=100MHz
+C321 device=CAPACITOR
+C322 device=CAPACITOR
+C320 device=CAPACITOR
+C319 device=CAPACITOR
+L310 device=COIL
+C335 device=CAPACITOR
+C336 device=CAPACITOR
+L309 device=COIL
+C333 device=CAPACITOR
+C334 device=CAPACITOR
+R305 device=RESISTOR
+U304 device=DDS
+R302 device=RESISTOR
+R301 device=RESISTOR
+C311 device=CAPACITOR
+C310 device=CAPACITOR
+U302 device=ADC
+U303 device=AMP
+U301 device=AMP
+R303 device=RESISTOR
+C326 device=CAPACITOR
+L306 device=COIL
+C323 device=CAPACITOR
+C328 device=CAPACITOR
+C329 device=CAPACITOR
+L307 device=COIL
+C324 device=CAPACITOR
+C330 device=CAPACITOR
+C331 device=CAPACITOR
+L308 device=COIL
+C325 device=CAPACITOR
+C327 device=CAPACITOR
+R304 device=RESISTOR
+L304 device=COIL
+C313 device=CAPACITOR
+C312 device=CAPACITOR
+C316 device=CAPACITOR
+C317 device=CAPACITOR
+L305 device=COIL
+C318 device=CAPACITOR
+C314 device=CAPACITOR
+C315 device=CAPACITOR
+L302 device=COIL
+C302 device=CAPACITOR
+C301 device=CAPACITOR
+C307 device=CAPACITOR
+C308 device=CAPACITOR
+L303 device=COIL
+C309 device=CAPACITOR
+C303 device=CAPACITOR
+C304 device=CAPACITOR
+L301 device=COIL
+C305 device=POLARIZED_CAPACITOR
+D301 device=LED
+R307 device=RESISTOR
+C306 device=CAPACITOR
+C351 device=CAPACITOR
+J304 device=CONNECTOR
+U307 device=unknown
+J301 device=CONNECTOR
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+unnamed_net55 : K302 12 
+unnamed_net54 : K302 11 
+unnamed_net53 : K302 10 
+unnamed_net52 : K302 9 
+unnamed_net51 : K301 7 
+unnamed_net50 : K301 6 
+unnamed_net49 : K301 5 
+RESET : K302 3, K301 3 
+unnamed_net48 : K301 2 
+unnamed_net47 : K301 1 
+unnamed_net46 : S301 3 
+unnamed_net45 : S301 2 
+unnamed_net44 : U306 5 
+unnamed_net43 : U306 3 
+unnamed_net42 : U306 7, L313 1, C345 2, U306 6, C346 2 
+unnamed_net41 : U306 4, L314 1, C348 2 
+unnamed_net40 : U306 1, C347 2 
+unnamed_net39 : U306 8, C344 2 
+unnamed_net38 : C344 1, J303 1 
+unnamed_net37 : U305 5 
+unnamed_net36 : U305 3 
+unnamed_net35 : U305 7, L311 1, C339 2, U305 6, C338 2 
+unnamed_net34 : U305 4, L312 1, C341 2 
+unnamed_net33 : U305 1, C340 2 
+unnamed_net32 : U305 8, C337 2 
+unnamed_net31 : C337 1, J302 1 
+unnamed_net30 : P301 3, P301 1, R306 2 
+unnamed_net29 : U304 17 
+unnamed_net28 : R305 2, U304 20 
+unnamed_net27 : U304 15 
+unnamed_net26 : U304 16 
+unnamed_net25 : U304 13 
+unnamed_net24 : U304 14 
+unnamed_net23 : R306 1, U304 12 
+unnamed_net22 : L309 1, C333 2, C334 2, U304 18 
+unnamed_net21 : L310 1, C335 2, C336 2, U304 11 
+unnamed_net20 : X301 3, U304 9 
+GPIO17 : K301 10, U304 8 
+GPIO18 : K301 9, U304 7 
+GPIO27 : K301 8, U304 25 
+unnamed_net19 : R302 2, R301 1, U302 1 
+SCL : K301 12, U302 10 
+unnamed_net18 : U302 2 
+Ain_3 : K302 5, C350 2, C349 2, L314 2, U302 7 
+Ain_2 : K302 6, C343 2, C342 2, L312 2, U302 6 
+SDA : K301 11, U302 9 
+unnamed_net17 : U303 5 
+unnamed_net16 : U303 3 
+unnamed_net15 : U301 5 
+unnamed_net14 : U301 3 
+unnamed_net13 : U304 21, R303 2, C326 2, L306 1, C323 1 
+unnamed_net12 : C328 2, C323 2, L306 2, C329 2, L307 1, C324 1 
+unnamed_net11 : C330 2, C324 2, L307 2, C331 2, L308 1, C325 1 
+unnamed_net10 : U303 7, L304 1, C313 2, U303 6, C312 2 
+Ain_0 : K302 8, U302 4, C316 2, C317 2, L305 2 
+unnamed_net9 : U303 4, L305 1, C318 2 
+unnamed_net8 : U303 1, C314 2 
+unnamed_net7 : U303 8, C315 2 
+unnamed_net6 : U301 7, L302 1, C302 2, U301 6, C301 2 
+Ain_1 : K302 7, U302 5, C307 2, C308 2, L303 2 
+unnamed_net5 : U301 4, L303 1, C309 2 
+unnamed_net4 : U301 1, C303 2 
+unnamed_net3 : U301 8, C304 2 
+unnamed_net2 : D301 2, R307 1 
+Vcc : L313 2, L311 2, L310 2, L309 2, L304 2, L302 2, L301 2, C305 1, C306 2 
+OUTPUT : C315 1, C327 2, C325 2, L308 2, R304 2, J304 1 
+Vdd : K302 4, C332 2, X301 4, C322 2, C321 2, U304 23, C319 2, C320 2, U304 6, U304 3, U304 4, R301 2, C311 2, C310 2, U302 8, L301 1, U307 2 
++15V : S301 1, R307 2, C351 2, U307 1 
+GND : K302 2, K301 4, U306 2, C345 1, C346 1, C350 1, C349 1, C348 1, C347 1, J303 2, U305 2, C339 1, C338 1, C343 1, C342 1, C341 1, C340 1, J302 2, C332 1, P301 2, X301 2, C321 1, C322 1, C320 1, C319 1, C335 1, C336 1, C333 1, C334 1, R305 1, U304 22, U304 19, U304 10, U304 24, U304 5, U304 26, U304 27, U304 28, U304 1, U304 2, R302 1, C311 1, C310 1, U302 3, U303 2, U301 2, R303 1, C326 1, C328 1, C329 1, C330 1, C331 1, C327 1, R304 1, C313 1, C312 1, C316 1, C317 1, C318 1, C314 1, C302 1, C301 1, C307 1, C308 1, C309 1, C303 1, J304 2, C305 2, D301 1, C306 1, C351 1, U307 3, J301 2 
+unnamed_net1 : C304 1, J301 1 
+
+END nets
+

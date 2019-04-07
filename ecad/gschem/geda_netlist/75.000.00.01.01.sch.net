@@ -1,0 +1,63 @@
+START header
+
+gEDA's netlist format
+Created specifically for testing of gnetlist
+
+END header
+
+START components
+
+016 device=unknown
+013 device=unknown
+010 device=unknown
+OUTPUT_0 device=BNC
+007 device=unknown
+003 device=unknown
+004 device=unknown
+002 device=unknown
+INPUT_3 device=BNC
+INPUT_2 device=BNC
+INPUT_1 device=BNC
+015 device=unknown
+014 device=unknown
+012 device=unknown
+011 device=unknown
+009 device=unknown
+008 device=unknown
+006 device=unknown
+102 device=unknown
+101 device=unknown
+001 device=unknown
+005 device=unknown
+
+END components
+
+START renamed-nets
+
+
+END renamed-nets
+
+START nets
+
+unnamed_net16 : U? ? 
+unnamed_net15 : U? ? 
+GND : OUTPUT_0 2, INPUT_3 2, INPUT_2 2, INPUT_1 2 
+unnamed_net14 : U? ? 
+unnamed_net13 : U? ? 
+unnamed_net12 : INPUT_3 1, U? ? 
+unnamed_net11 : U? ? 
+unnamed_net10 : U? ? 
+unnamed_net9 : INPUT_2 1, U? ? 
+unnamed_net8 : U? ? 
+unnamed_net7 : U? ? 
+unnamed_net6 : INPUT_1 1, U? ? 
+unnamed_net5 : U? ? 
++5V : U? ? 
+unnamed_net4 : U? ? 
++15V : U? ? 
+unnamed_net3 : U? ? 
+unnamed_net2 : U? ? 
+unnamed_net1 : OUTPUT_0 1, U? ? 
+
+END nets
+
