@@ -1,5 +1,9 @@
 # Scalar Network Analyser
 
+Retrieved from: http://stevenmerrifield.com/scalar/index.html
+
+Original design by Steven J. Merrifield.
+
 ![01](scalar_pcb.jpg)
 
 This project is a simple scalar network analyser using a DDS, log amplifiers, multi channel ADC and a generic I/O interface.
