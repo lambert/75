@@ -46,3 +46,24 @@ Right click on the images to open larger versions.
 ![12](sjm-logo-color-1-small.gif)
 
 Last update: 29 Mar 2019 © Steven J. Merrifield
+
+## OSH Park - Scalar Network Analyser
+
+By sjm
+
+![Top](SNA_top.png)
+
+![Bottom](SNA_bottom.png)
+
+2 layer board of 1.97 x 1.42 inches (50.1 x 36.1 mm).
+
+Uploaded: February 20th, 2019 22:18.
+
+Shared: March 29th, 2019 09:35
+
+Total Price: $14.00
+
+[Download gerber files](SNA_gerber.zip)
+
+More details here: http://stevenmerrifield.com/scalar/index.html
+
