@@ -1,4 +1,5 @@
 DIRS = \
+	gnucap \
 	gschem \
 	pcb
 
