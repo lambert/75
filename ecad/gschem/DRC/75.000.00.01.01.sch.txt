@@ -1,0 +1,34 @@
+Checking non-numbered parts...
+
+Checking duplicated references...
+
+Checking nets with only one connection...
+ERROR: Net 'unnamed_net16' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net15' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net14' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net13' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net11' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net10' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net8' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net7' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net5' is connected to only one pin: U?:? .
+ERROR: Net '+5V' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net4' is connected to only one pin: U?:? .
+ERROR: Net '+15V' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net3' is connected to only one pin: U?:? .
+ERROR: Net 'unnamed_net2' is connected to only one pin: U?:? .
+
+Checking pins without the 'pintype' attribute...
+NOTE: Found pins without the 'pintype' attribute: U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? U?:? 
+Checking type of pins connected to a net...
+
+Checking unconnected pins...
+
+Checking slots...
+
+Checking duplicated slots...
+
+Checking unused slots...
+
+No warnings found. 
+Found 14 errors.

@@ -1,0 +1,36 @@
+Checking non-numbered parts...
+
+Checking duplicated references...
+ERROR: Duplicated reference U306.
+ERROR: Duplicated reference U305.
+ERROR: Duplicated reference U302.
+ERROR: Duplicated reference U303.
+ERROR: Duplicated reference U301.
+
+Checking nets with only one connection...
+ERROR: Net 'unnamed_net45' is connected to only one pin: S301:2 .
+
+Checking pins without the 'pintype' attribute...
+INTERNAL ERROR: unknown pin type : inout
+NOTE: Found pins without the 'pintype' attribute: S301:3 S301:2 U306:7 U305:7 U303:7 U301:7 U302:8 U307:2 S301:1 U306:2 U305:2 U302:3 U303:2 U301:2 U307:3 
+Checking type of pins connected to a net...
+INTERNAL ERROR: unknown pin type : inout
+
+Checking unconnected pins...
+ERROR: Unconnected pin K302:1
+
+Checking slots...
+ERROR: Multislotted reference U302 has no slot attribute defined.
+ERROR: Multislotted reference U307 has no slot attribute defined.
+
+Checking duplicated slots...
+ERROR: duplicated slot 1 of uref U306
+ERROR: duplicated slot 1 of uref U305
+ERROR: duplicated slot 1 of uref U302
+ERROR: duplicated slot 1 of uref U303
+ERROR: duplicated slot 1 of uref U301
+
+Checking unused slots...
+
+No warnings found. 
+Found 14 errors.
