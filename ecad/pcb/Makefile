@@ -1,7 +1,7 @@
 PROJNAME = 75_SCALAR_NETWORK_ANALYSER
 
 LAYOUTS = \
-	75.001.00.01.01.pcb
+	75.003.00.01.01.pcb
 
 # Generic stuff follows from here.
 
