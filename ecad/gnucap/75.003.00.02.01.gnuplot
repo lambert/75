@@ -2,7 +2,7 @@
 set term png
 
 # setup graph
-set output "73.003.00.02.01.png"
+set output "75.003.00.02.01.png"
 set title "Main board - Output stage - Frequency response"
 
 # setup Y-axis
