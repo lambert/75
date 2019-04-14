@@ -14,7 +14,7 @@ comment=schematic
 T 26200 1300 5 10 1 1 0 0 1
 description=Scalar Network Analyser
 T 30100 600 5 10 1 1 0 0 1
-revision=20190407
+revision=20190413
 T 30100 300 5 10 1 1 0 0 1
 author=Bert Timmerman
 }
@@ -1862,3 +1862,5 @@ value=NoConnection
 T 24900 14700 5 10 0 0 0 0 1
 device=DRC_Directive
 }
+T 21200 7700 9 10 1 0 0 0 1
+7th Order Elliptic Low Pass Filter
